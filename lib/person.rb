@@ -10,3 +10,6 @@ class Person
 
 
 end
+
+
+#Your initialize method should use iteration and the .send method to mass assign the value of each key/value pair to its associated key (i.e. method). Refer to the previous reading to help you solve this one
