@@ -1,3 +1,11 @@
 class Person
-  #your code here
+
+  attr_accessor :name 
+  attr_reader :height, :birthday 
+  
+  def initialize(attributes)
+    
+  end 
+
+
 end
